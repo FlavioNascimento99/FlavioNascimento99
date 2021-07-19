@@ -3,7 +3,7 @@
 # Flavio Henrique
 
 ## _Sobre_
-Estudante de TI no Instituto Federal da Paraíba, com 22 anos possuo interesse em trabalhar no Front-End, tenho apreço por design em geral, possuo conhecimento em intermediário em HTML, CSS, Bootstrap e tenho um conhecimento inicial em JavaScript, mesmo ainda não ter conhecimento em nenhum framework do mesmo, pretente obte-lo em breve.
+Estudante de TI no Instituto Federal da Paraíba, com 22 anos possuo interesse em trabalhar no Front-End, tenho apreço por design pesquisas de campo e mercadológicos e um entusiasta em 'design thinking', possuo conhecimento em intermediário pra avançado em HTML, CSS, Bootstrap e tenho um conhecimento inicial em JavaScript, tendo já passagens em alguns frameworks do mesmo, tenho como foco continuar talvez no front-end desenvolvendo idéias e soluções.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=flaviodart&theme=outrun&show_icons=true)
 
