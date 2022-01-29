@@ -38,8 +38,8 @@ Atualmente venho estudando ASP.Net a fim de aprender mais sobre o conceito de MV
 <br>
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=flaviodart&theme=dark&show_icons=true) 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=flaviodart&theme=default&show_icons=true) 
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodart&hide=html&layout=compact&theme=dark)](https://github.com/falviodart/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodart&hide=html&layout=compact&theme=default)](https://github.com/falviodart/)
 <hr>
 <br>
