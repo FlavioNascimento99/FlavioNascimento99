@@ -13,13 +13,12 @@ Estudante de TI no Instituto Federal da Paraíba, com 22 anos possuo interesse e
 <br>
 
 ## **O que estou estudando** ✍️
-Atualmente venho estudando ASP.Net a fim de aprender mais sobre o conceito de MVC (Model, View, Constructor), e tenho me impressionado bastante com esta arquitetura de desenvolvimento.
+Estudando assíduamente React com TypeScript, tendo como foco atual, trabalhar como Front-End utilizando tais tecnologias.
 <br>
 
 ## **O que pretendo aprender** 📖
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
+![image](https://img.shields.io/badge/ReactNative-02569B?style=for-the-badge&logo=reactnative&logoColor=white) 
 
 ## __Conhecimento__ 🧠
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
