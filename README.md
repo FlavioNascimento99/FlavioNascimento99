@@ -18,7 +18,7 @@ Estudando assíduamente React com TypeScript, tendo como foco atual, trabalhar c
 
 ## **O que pretendo aprender** 📖
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![image](https://img.shields.io/badge/ReactNative-02569B?style=for-the-badge&logo=reactnative&logoColor=white) 
+![image](https://img.shields.io/badge/ReactNative-02569B?style=for-the-badge&logo=react-native&logoColor=white) 
 
 ## __Conhecimento__ 🧠
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
