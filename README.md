@@ -13,6 +13,12 @@ Meu nome é Flavio Nascimento, tenho 23 anos, atualmente estudante de Sistemas p
 <br>
 
 ## **O que estou estudando** ✍️
+
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 No momento estou estudando bastante React com TypeScript como super-set para JavaScript, e tem sido uma experiência incrível, estou aplicando meu conhecimento em pequenos projetos pessoais a fim de desenvolver minhas habilidades com a biblioteca e assim ingressar no mercado como um desenvolvedor Front-End com essas stacks.
 
 Além destas, estou também estudando através do meu curso, no momento o framework do Google, Angular e ExpressJS, e aplicando o que aprendi com ASP.Net MVC e o conceito de Model, View e Controller.
@@ -20,12 +26,6 @@ Além destas, estou também estudando através do meu curso, no momento o framew
 
 ## **O que pretendo aprender** 📖
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-## __Estudando...__ 📚
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## __Conhecimento__ 🧠
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
