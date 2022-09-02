@@ -9,11 +9,13 @@
 
 
 ## **Sobre** 👀
-Meu nome é Flavio Nascimento, tenho 23 anos, atualmente estudante de TI no Instituto Federal (IFPB), apaixonado por Música, MMA, Tecnologia e Design fez com que nascesse a vontade de trabalhar como desenvolvedor Front-End, tenho como uma stack alvo, React e React-Native com TypeScript.
+Meu nome é Flavio Nascimento, tenho 23 anos, atualmente estudante de Sistemas para Internet no Instituto Federal (IFPB), apaixonado por Tecnologia e Design fez com que nascesse a vontade de trabalhar como desenvolvedor Front-End, tenho como uma stack alvo, React e React-Native com TypeScript.
 <br>
 
 ## **O que estou estudando** ✍️
-No momento estou estudando bastante React com TypeScript (e estou adorando), aplicando meu conhecimento em pequenos projetos pessoais a fim de desenvolver minhas habilidades com a biblioteca e assim ingressar no mercado como um desenvolvedor Front-End com essas stacks.
+No momento estou estudando bastante React com TypeScript como super-set para JavaScript, e tem sido uma experiência incrível, estou aplicando meu conhecimento em pequenos projetos pessoais a fim de desenvolver minhas habilidades com a biblioteca e assim ingressar no mercado como um desenvolvedor Front-End com essas stacks.
+
+Além destas, estou também estudando através do meu curso, no momento o framework do Google, Angular e ExpressJS, e aplicando o que aprendi com ASP.Net MVC e o conceito de Model, View e Controller.
 <br>
 
 ## **O que pretendo aprender** 📖
