@@ -49,9 +49,9 @@ Além destas, estou também estudando através do meu curso, no momento o framew
 <hr>
 <br>
 
-![url](https://github-readme-stats.vercel.app/api/top-langs/?username=flavinkk)
+![url](https://github-readme-stats.vercel.app/api/top-langs/?username=flavionascimento99)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=flavinkk&theme=default&show_icons=true) 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=flavionascimento99&theme=default&show_icons=true) 
 
 <hr>
 <br>
