@@ -9,7 +9,7 @@
 
 
 ## **Sobre** 👀
-Meu nome é Flavio Nascimento, tenho 23 anos, atualmente estudante de Sistemas para Internet no Instituto Federal, focando em minha formação Fullstack, visando as mais diversas tecnologias.
+Meu nome é Flavio Nascimento, tenho 25 anos, atualmente estudante de Sistemas para Internet no Instituto Federal, focando em minha formação Fullstack, visando as mais diversas tecnologias.
 <br>
 
 ## **O que estou estudando** ✍️
