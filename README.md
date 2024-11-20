@@ -24,11 +24,6 @@ Meu nome é Flavio Nascimento, tenho 23 anos, atualmente estudante de Sistemas p
 No momento estou estudando bastante Java e Kotlin em conjunto com Spring Boot afim de desenvolver minhas habilidades de infraestrutura e Back-end afim de me desenvolver como Fullstack.
 <br>
 
-## **Tecnologias em vista** 📖
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
 ## **Conhecimento** 🧠
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
