@@ -40,7 +40,7 @@ No momento estou estudando bastante Java e Kotlin em conjunto com Spring Boot af
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=flavionascimento99&theme=default&show_icons=true) 
+![YOUR github stats]() 
 
 <hr>
 <br>
