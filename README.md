@@ -8,7 +8,7 @@
 
 
 ## **about me** 👀
-My name is Flavio Nascimento, I'm 25 years old, I'm a technology graduate and I'm always studying something new in the area.
+```My name is Flavio Nascimento, I'm 25 years old, I'm a technology graduate and I'm always studying something new in the area.```
 <br>
 
 ## **fresh knowledge** ✍️
@@ -19,7 +19,7 @@ My name is Flavio Nascimento, I'm 25 years old, I'm a technology graduate and I'
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-I'm currently studying Java, Kotlin and reviewing relational database concepts, I'm looking to strengthen my knowledge in backend and mobile.
+```I'm currently studying Java, Kotlin and reviewing relational database concepts, I'm looking to strengthen my knowledge in backend and mobile.```
 <br>
 
 ## **also know...** 🧠
