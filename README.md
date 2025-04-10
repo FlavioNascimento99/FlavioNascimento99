@@ -49,3 +49,7 @@ public class SoftwareEngineer {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavionascimento99&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavionascimento99&layout=donut&theme=dark" />
 </div>
+
+<!-- Os repositórios que utilizei para construção desse README estão favoritados no meu perfil do GitHub, se quiser construir algo parecido, boa sorte procurando por que eu mesmo não vou atrás -->
+
+<!-- Na verdade um link que pode ajudar é esse Awesome Girhub Readme, https://github.com/abhisheknaiidu/awesome-github-profile-readme, boa sorte -->
