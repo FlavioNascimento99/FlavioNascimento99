@@ -1,29 +1,41 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Flavio%20Nascimento&fontSize=30&fontColor=000&section=header&textBg=false&animation=fadeIn&desc=Software%20Developer&descSize=15">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Flavio%20Nascimento&fontSize=30&fontColor=000&section=header&textBg=false&animation=fadeIn&desc=Software%20Developer&descSize=15">
 
-# **``where you can find me``**
-[<img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/that_damn_flavio) [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/flavio-nascimento-5836661a1/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/that_damn_flavio/)
+### 👋 Welcome Buddy
+![https://www.instagram.com/0xnascimento/](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)  ![https://www.linkedin.com/in/flavio-nascimento-5836661a1/](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)  ![https://x.com/0xNascimento](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)
 
 
+```
+public class SoftwareEngineer {
 
-## **``about me``** 👀
-```My name is Flavio Nascimento, I'm 25 years old, I'm a technology graduate and I'm always studying something new in the area.```
-<br>
+    private String name;
+    private String role;
+    private String[] languageSpoken;
 
-## **``fresh knowledge``** ✍️
+    public SoftwareEngineer() {
+        this.name = "Flavio Nascimento";
+        this.role = "Software Engineer";
+        this.languageSpoken = new String[] {"pt_BR", "en_US"};
+    }
 
-![image](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+    public void sayHi() {
+        System.out.println("Software engineer student at IFPB, well rounded web-developer, welcome to my profile. 🚀");
+    }
 
-```I'm currently studying Java, Kotlin and reviewing relational database concepts, I'm looking to strengthen my knowledge in backend and mobile.```
-<br>
+    public static void main(String[] args) {
+        SoftwareEngineer me = new SoftwareEngineer();
+        me.sayHi();
+    }
+}
 
-## **also know...** 🧠
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-<hr>
-<br>
+```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavionascimento99&layout=compact)
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=flavionascimento99&theme=default&show_icons=true) 
+### 🔨 Langs and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
 
-<hr>
-<br>
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat&logo=ruby-on-rails&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+
+<!-- ### OS  
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) -->
