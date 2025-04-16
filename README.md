@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Flavio%20Nascimento&fontSize=26&fontColor=c3c6c9&section=header&textBg=false&animation=fadeIn&desc=Software%20Developer&descSize=15">
 
-### 👋 you're welcome, buddy 🍺💻
+### 👋 Welcome, buddy 🍺💻
 
 Software developer and computing enthusiast ☝🤓
 
