@@ -45,10 +45,10 @@ public class SoftwareEngineer {
 
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavionascimento99&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavionascimento99&layout=donut&theme=dark" />
-</div>
+<picture>
+  <source srcset="https://raw.githubusercontent.com/FlavioNascimento99/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/FlavioNascimento99/repository_name/main/output/stats_commits.svg">
+</picture>
 
 <!-- Os repositórios que utilizei para construção desse README estão favoritados no meu perfil do GitHub, se quiser construir algo parecido, boa sorte procurando por que eu mesmo não vou atrás -->
 
