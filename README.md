@@ -46,8 +46,8 @@ public class SoftwareEngineer {
 </div>
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/FlavioNascimento99/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/FlavioNascimento99/repository_name/main/output/stats_commits.svg">
+  <source srcset="https://raw.githubusercontent.com/FlavioNascimento99/veritas_application/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/FlavioNascimento99/veritas_application/main/output/stats_commits.svg">
 </picture>
 
 <!-- Os repositórios que utilizei para construção desse README estão favoritados no meu perfil do GitHub, se quiser construir algo parecido, boa sorte procurando por que eu mesmo não vou atrás -->
