@@ -50,7 +50,7 @@ public class SoftwareEngineer {
   <img src="https://raw.githubusercontent.com/FlavioNascimento99/veritas_application/main/output/stats_commits.svg">
 </picture> -->
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/FlavioNascimento99?cardType=level&theme=github&fontFamily=Inter%20Tight&preferLogin=false"
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/FlavioNascimento99?cardType=level&theme=github&fontFamily=&preferLogin=false"
        alt="My Awesome Stats">
 </p>
 
