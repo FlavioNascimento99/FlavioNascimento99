@@ -49,8 +49,10 @@ public class SoftwareEngineer {
   <source srcset="https://raw.githubusercontent.com/FlavioNascimento99/veritas_application/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/FlavioNascimento99/veritas_application/main/output/stats_commits.svg">
 </picture> -->
-
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FlavioNascimento99?cardType=level&theme=github&fontFamily=Inter%20Tight&preferLogin=false)
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/FlavioNascimento99?cardType=level&theme=github&fontFamily=Inter%20Tight&preferLogin=false"
+       alt="My Awesome Stats">
+</p>
 
 <!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=FlavioNascimento99) -->
 
