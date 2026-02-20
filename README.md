@@ -50,7 +50,7 @@ public class SoftwareEngineer {
   <img src="https://raw.githubusercontent.com/FlavioNascimento99/veritas_application/main/output/stats_commits.svg">
 </picture> -->
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FlavioNascimento99&show_icons=true)![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=FlavioNascimento99)![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FlavioNascimento99&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FlavioNascimento99?cardType=level&theme=github&fontFamily=Inter%20Tight&preferLogin=false)](https://git.io/awesome-stats-card)![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=FlavioNascimento99)
 
 <!-- Os repositórios que utilizei para construção desse README estão favoritados no meu perfil do GitHub, se quiser construir algo parecido, boa sorte procurando por que eu mesmo não vou atrás -->
 
