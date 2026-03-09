@@ -22,7 +22,7 @@ public class SoftwareEngineer {
     }
 
     public void sayHi() {
-        System.out.println("Software engineer student at IFPB, well rounded web-developer, welcome to my profile");
+        System.out.println("Software engineer student at IFPB, well rounded fullstack web-developer");
     }
 
     public static void main(String[] args) {
