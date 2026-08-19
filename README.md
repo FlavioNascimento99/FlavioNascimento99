@@ -1,19 +1,31 @@
 ```text
-            .-"""-.              flavio@ArchPad
-           /       \             -------------------------
-          /  O   O  \            OS:       Omarchy Linux x86_64
-         |     v     |           Host:     ArchPad
-         |    ___    |           Kernel:   7.1.8-arch1-3
-          \  /   \  /            Shell:    zsh 5.9
-          |'      '|             Terminal: foot
-     .----'--------'----.        Editor:   Neovim / VSCode
-    /    /          \    \       CPU:      Intel i5-10310U @ 1.70GHz
-   |    /            \    |      RAM:      7.3Gi
-   |   |              |   |
-    \   \            /   /
-     \   '----------'   /
-      \                /
-       '--------------'
+                   -`
+                  .o+`
+                 `ooo/
+                `+oooo:
+               `+oooooo:
+               -+oooooo+:                 nascimento@ArchPad
+             `/:-:++oooo+:                -------------------------
+            `/++++/+++++++:               OS:       Omarchy Linux x86_64
+           `/++++++++++++++:              Host:     ArchPad
+          `/+++ooooooooooooo/`            Kernel:   7.1.8-arch1-3
+         ./ooosssso++osssssso+`           Shell:    zsh 5.9
+        .oossssso-````/ossssss+`          Terminal: foot
+       -osssssso.      :ssssssso.         Editor:   Neovim / VSCode
+      :osssssss/        osssso+++.        Machine:  Thinkpad L13 Gen2
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+````/ossssss+`          Editor:   Neovim / VSCode
+       -osssssso.      :ssssssso.         CPU:      Intel i5-10310U @ 1.70GHz
+      :osssssss/        osssso+++.        RAM:      7.3Gi
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
 ```
 
 > ao sem talento, obsessao.
