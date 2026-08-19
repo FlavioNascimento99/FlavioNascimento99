@@ -20,7 +20,7 @@
  .`                                 `/
 ```
 
-> ao sem talento, obsessao.
+> Quando não há talento, obsessão.
 
 ---
 
