@@ -23,3 +23,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: FlavioNascimento99
         run: node .github/workflows/update-stats.mjs
+
+      - name: Commit
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --staged --quiet && echo 'stats inalterados' && exit 0
+          git commit -m 'chore: atualiza stats do perfil'
+          git push
