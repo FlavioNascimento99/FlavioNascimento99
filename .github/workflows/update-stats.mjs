@@ -25,19 +25,7 @@ const followers = userResp.followers;
 
 const repos = await api(`users/${user}/repos?per_page=100`);
 
-let privateCount = 0;
-try {
-  const owned = await api(`user/repos?visibility=private&per_page=1&affiliation=owner`);
-  if (owned.message && owned.message.includes("API rate limit")) {
-    privateCount = 0;
-  } else {
-    privateCount = parseInt(owned.headers?.["x-total-count"] ?? "0", 10);
-  }
-} catch {
-  privateCount = 0;
-}
-
-const totalRepos = publicRepos + privateCount;
+const totalRepos = publicRepos;
 
 let contributions = 0;
 try {
@@ -74,7 +62,7 @@ const langLines = sorted
   .map(([lang, count]) => {
     const filled = Math.round((count / max) * bar);
     const empty = bar - filled;
-    const name = lang.length > 11 ? lang.slice(0, 11) : lang.padEnd(11);
+    const name = (lang.length > 11 ? lang.split(" ")[0] : lang).padEnd(11).slice(0, 11);
     const countStr = String(count).padStart(2);
     return `│  ${name} ${"█".repeat(filled)}${"░".repeat(empty)}  ${countStr}                        │`;
   })
