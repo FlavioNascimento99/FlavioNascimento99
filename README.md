@@ -34,84 +34,40 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  Languages                                                   │
+│  Stack                                                       │
 ├──────────────────────────────────────────────────────────────┤
-│  Backend:      Java, Spring Boot, Node.js, Go, Python        │
-│  Frontend:     React, Next.js, Angular, TypeScript           │
-│  Database:     PostgreSQL, MySQL, MongoDB                    │
-│  Infra:        Docker, GitHub Actions, Cloudflare            │
-│  Spoken:       pt_BR, en_US                                  │
+│  Backend:    Java, Spring Boot, Node.js, Go, Python          │
+│  Frontend:   React, Next.js, Angular, TypeScript             │
+│  Data:       PostgreSQL, MySQL, MongoDB                      │
+│  Infra:      Docker, GitHub Actions, nginx, VPS, Cloudflare  │
+│  Patterns:   Hexagonal, SOA, Microservices, Event-Driven     │
+│  Protocols:  REST, WebSocket, Pub/Sub                        │
+│  Also:       Game Modding, Mobile Dev                        │
+│  Spoken:     pt_BR, en_US                                    │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  Architecture                                                │
+│  Work                                                        │
 ├──────────────────────────────────────────────────────────────┤
-│  Patterns:     Hexagonal, SOA, Microservices                 │
-│  Protocols:    REST, WebSocket, Pub/Sub                      │
-│  Paradigms:    OOP, Functional, Event-Driven                 │
-└──────────────────────────────────────────────────────────────┘
-```
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Experience                                                  │
-├──────────────────────────────────────────────────────────────┤
-│  VoiceX — Voz sobre WhatsApp, API REST + WebSocket,          │
-│  TypeScript ESM, PostgreSQL, Baileys vendorizado (WASM),     │
-│  bridge para agentes IA. Quatro deliverables independentes,  │
-│  Docker glibc, schema idempotente sob advisory lock.         │
+│  VoiceX      Voz sobre WhatsApp — API REST + WebSocket,      │
+│              TypeScript ESM, PostgreSQL, Baileys             │
+│              vendorizado (WASM), Docker sobre glibc.         │
 │                                                              │
-│  Campaign Platform — Monolito modular hexagonal, Node 20     │
-│  ESM, Fastify 5, Prisma 6, PostgreSQL, pg-boss (sem Redis).  │
-│  API + worker como entrypoints separados, pacote de          │
-│  contratos shared via GitHub Packages.                       │
+│  Campaign    Monolito modular hexagonal multicanal —         │
+│              email, RCS e voz com IA. Fastify 5, Prisma 6,   │
+│              pg-boss sobre Postgres, sem Redis.              │
 │                                                              │
-│  Campaign Client — Next.js 15, React 19, NextAuth 5,         │
-│  TanStack Query, Radix UI, TipTap, Recharts,                 │
-│  Playwright + Vitest.                                        │
-└──────────────────────────────────────────────────────────────┘
-```
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Currently Building                                          │
-├──────────────────────────────────────────────────────────────┤
-│  Webhook Gateway — Fastify 5, receptor unico com fan-out,    │
-│  roteamento por env var, accept-and-forward com retry        │
-│  assincrono e backoff exponencial, idempotencia delegada.    │
-│  Testcontainers + PostgreSQL.                                │
+│  Painel      Next.js 15, React 19, TanStack Query, Radix,    │
+│              TipTap, Playwright + Vitest.                    │
 │                                                              │
-│  Sites PSI — Astro + TypeScript, Docker multi-stage, nginx,  │
-│  CI/CD GitHub Actions, GHCR, deploy via SSH em VPS.          │
+│  Gateway     Fan-out de webhook — accept-and-forward,        │
+│              retry com backoff, idempotencia no downstream.  │
 │                                                              │
-│  Infra — VPS nao gerenciada, nginx por path, Docker Compose, │
-│  imagens pinadas por digest, pipeline diario de backup       │
-│  Postgres (dump, verificacao, GPG, S3-compativel) com        │
-│  retencao e restore validado ponta a ponta.                  │
-└──────────────────────────────────────────────────────────────┘
-```
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Interests                                                   │
-├──────────────────────────────────────────────────────────────┤
-│  Systems:      Distributed Systems, Event-Driven Arch        │
-│  Infra:        Linux, CI/CD, VPS, Cloudflare                 │
-│  Other:        Game Modding, Mobile Dev                      │
-└──────────────────────────────────────────────────────────────┘
-```
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Contact                                                     │
-├──────────────────────────────────────────────────────────────┤
-│  Email:      contato.nascimento.dev@gmail.com                │
-│  LinkedIn:   /in/0xnascimento                                │
-│  Instagram:  @0xnascimento                                   │
-│  Twitter:    @0xNascimento                                   │
-│  GitHub:     @FlavioNascimento99                             │
+│  Infra       VPS nao gerenciada, nginx por path, Compose,    │
+│              CI/CD com GHCR, backup Postgres cifrado com     │
+│              restore validado ponta a ponta.                 │
 └──────────────────────────────────────────────────────────────┘
 ```
 
