@@ -18,14 +18,6 @@
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
-````/ossssss+`          Editor:   Neovim / VSCode
-       -osssssso.      :ssssssso.         CPU:      Intel i5-10310U @ 1.70GHz
-      :osssssss/        osssso+++.        RAM:      7.3Gi
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
 ```
 
 > ao sem talento, obsessao.
